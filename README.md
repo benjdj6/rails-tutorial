@@ -1,1 +1,1 @@
-##Implementations of Rails Tutorials Outlined on http://railstutorial.org
+## Implementations of Rails Tutorials Outlined on http://railstutorial.org
